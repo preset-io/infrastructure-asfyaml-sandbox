@@ -1,0 +1,2 @@
+github:
+  description: "Sandbox for testing apache/infrastructure-asfyaml changes. Safe to mangle; reset after each test."
